@@ -10,7 +10,7 @@ You must do the following:
 5. Click the Convert button below the screen 
 6. After you convert it, it will show in your downloads what you need to do is to open the downloaded image ![image](https://user-images.githubusercontent.com/94433281/147398715-806bdca9-83f1-4d62-911f-da1f6032eccd.png)
 7. And copy it (Right click --> Copy / Ctrl + C) ![image](https://user-images.githubusercontent.com/94433281/147398727-50480def-dbf3-4a9f-832f-c7499df3e897.png)
-8. Finally now open Abacus with any text editor or IDE (I use IDLE) ![image](https://user-images.githubusercontent.com/94433281/147398731-c25c1f40-56c1-4f18-9b1d-efd3c4ccd176.png)
+8. Finally now open Abacus with any text editor or IDE (I use IDLE) ![image](https://user-images.githubusercontent.com/94433281/147398789-34d029b7-ced9-4bc5-a171-f9e6c68a0b46.png)
 9. Delete the statement in line 14 inside the double quotation mark and remove the hashtag sign at the front of the statement 
 10. And paste (Right click --> Paste / Ctrl + V) it on line 14 between the two double quotation mark 
 11. With this done save the edited file and run it again.
