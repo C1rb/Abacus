@@ -15,6 +15,9 @@ You must do the following:
 10. And paste (Right click --> Paste / Ctrl + V) it on line 14 between the two double quotation mark 
 11. With this done save the edited file and run it again.
 
+Expect a small icon showing in the top left corner before the word "Abacus" once you opened the calculator. If you see this ![image](https://user-images.githubusercontent.com/94433281/147398824-d3423028-0fd0-47de-86bd-241169a17181.png) 
+Well congrats, woooooooooooooo you have done it correctly :D
+
 Cheers,
 
-C1rb :)
+C1rb
