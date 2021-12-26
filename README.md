@@ -6,7 +6,7 @@ VERSIONS:
 
 Version 1.0
 - Basic operations (Addition, Subtraction, Multiplication and Division)
-- Clear and Equal function
+- Basic calculator with a Numeric keypad plus a Clear and Equal function
 
 Feel free to use and improve my code.
 
