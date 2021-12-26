@@ -5,7 +5,7 @@ Abacus is a calculator used to compute expressions with the operators of Additio
 VERSIONS:
 
 Version 1.0
-- Basic operations (Addition, Subtraction, Multiplication and Division)
+- Basic operations (Addition, Subtraction, Multiplication and Division of float/whole numbers)
 - Basic calculator with a Numeric keypad plus a Clear and Equal function
 
 Version 1.1
