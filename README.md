@@ -12,6 +12,7 @@ Version 1.0
 
 Version 1.1
 - Added float operations (Addition, Subtraction, Multiplication and Division of float)
+- Rearranged the calculator keypad, added the decimal button 
 
 Feel free to use and improve my code.
 
