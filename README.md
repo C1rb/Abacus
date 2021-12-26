@@ -6,7 +6,7 @@ VERSIONS:
 
 Version 1.0
 - Basic operations (Addition, Subtraction, Multiplication and Division)
-- Basic clear options
+- Clear and Equal option
 
 Feel free to use and improve my code.
 
