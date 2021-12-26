@@ -6,7 +6,7 @@ You must do the following:
 1. Download this image ![abacus-vector-icon](https://user-images.githubusercontent.com/94433281/147398524-9b268d5e-9522-438c-ac66-4fce0c86d4df.jpg)
 2. Once you have succesfully downloaded it go to this website https://www.icoconverter.com/
 3. Now you are in the website, set your option like the image below ![image](https://user-images.githubusercontent.com/94433281/147398556-16455d66-3d0c-4beb-88b4-93bd0535c1a1.png)
-4. After that press the choose file and find your downloaded Abacus image, once done
+4. After that press the choose file button and find your downloaded Abacus image, once done
 5. Click the Convert button below the screen 
 6. After you convert it, it will show in your downloads what you need to do is to open the downloaded image ![image](https://user-images.githubusercontent.com/94433281/147398715-806bdca9-83f1-4d62-911f-da1f6032eccd.png)
 7. And copy it (Right click --> Copy / Ctrl + C) ![image](https://user-images.githubusercontent.com/94433281/147398727-50480def-dbf3-4a9f-832f-c7499df3e897.png)
