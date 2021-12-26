@@ -1,6 +1,6 @@
 # Abacus
 
-Abacus is a calculator used to compute expressions with the operators of Addition, Subtraction, Multiplication and Division. It has no current digit threshold yet, it also has a clear function like what all of the calculators in the world have. Hopefully in the future I can add new futures such as themes and interger operations.
+Abacus is a calculator used to compute expressions with the operators of Addition, Subtraction, Multiplication and Division. It has no current digit threshold yet, it has the fundemetals of a calculator namely: Numeric Keypad, Clear, Operators and Equal. Hopefully in the future I can add new futures such as themes and interger operations.
 
 VERSIONS:
 
