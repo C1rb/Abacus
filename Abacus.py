@@ -11,7 +11,7 @@ root.geometry("163x349+550+200")
 root.configure(bg = "grey")
 root.resizable(False, False)
 root.attributes("-topmost", 1)
-root.iconbitmap("C:/Users/Person/Images/Python Tkinter Icon/Abacus.ico") #There is no icon for this program 
+#root.iconbitmap("C:/Users/Person/Images/Python Tkinter Icon/Abacus.ico") #There is no icon for this program 
 
 #Entry widget
 e = Entry(root, width = 17, font=("Consolas 14 bold"))
