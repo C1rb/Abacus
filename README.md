@@ -5,8 +5,8 @@ Abacus is a calculator used to compute expressions with the operators of Additio
 VERSIONS:
 
 Version 1.0
--Basic operations (Addition, Subtraction, Multiplication and Division)
--Basic clear options
+- Basic operations (Addition, Subtraction, Multiplication and Division)
+- Basic clear options
 
 Feel free to use and improve my code.
 
