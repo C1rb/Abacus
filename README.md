@@ -8,6 +8,9 @@ Version 1.0
 - Basic operations (Addition, Subtraction, Multiplication and Division)
 - Basic calculator with a Numeric keypad plus a Clear and Equal function
 
+Version 1.1
+- Added interger operations (Addition, Subtraction, Multiplication and Division of intergers)
+
 Feel free to use and improve my code.
 
 Cheers,
