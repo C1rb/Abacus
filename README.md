@@ -12,7 +12,10 @@ Version 1.0
 
 Version 1.1
 - Added float operations (Addition, Subtraction, Multiplication and Division of float)
-- Rearranged the calculator keypad, added the decimal button 
+- Rearranged the calculator keypad, added the decimal button
+  
+  Version 1.1.5
+  - Added the negative interger operations (which means that you can now solve negative expressions)
 
 Feel free to use and improve my code.
 
