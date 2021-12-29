@@ -11,7 +11,7 @@ root.geometry("220x300+550+200")
 root.configure(bg = "grey")
 root.resizable(False, False)
 root.attributes("-topmost", 1)
-root.iconbitmap("C:/Users/Vladimir  Fortes/Images/Python Tkinter Icon/Abacus.ico")
+#root.iconbitmap("C:/Users/Person/Images/Python Tkinter Icon/Abacus.ico") #There is no icon for this program, in order to add an icon kindly open and read ICON.md
 
 #Entry widget
 e = Entry(root, width = 22, font=("Consolas 14 bold"))
