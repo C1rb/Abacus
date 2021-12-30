@@ -20,8 +20,8 @@ Version 1.1
   - Added the negative interger operations (which means that you can now solve negative expressions)
 
 Version 1.2
-- Rearranged the calculator keypad, enlargen the window and C button
-- Paved the way for new feautures to be added
+- Rearranged the calculator keypad 
+- Enlargen the window and C button
 
 Feel free to use and improve my code.
 
